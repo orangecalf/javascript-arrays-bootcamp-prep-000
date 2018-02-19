@@ -28,5 +28,5 @@ function removeElementFromBeginningOfArray(array) {
   return array1
 }
 
-
+function 
 
